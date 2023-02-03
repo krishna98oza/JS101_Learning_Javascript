@@ -1,4 +1,17 @@
-let a=10;
-let b="goku";
+console.log("code started");
 
-console.log(typeof(a,b))
+// if (condition){
+//   console.log(true result)
+// }
+// else{
+//   console.log(false result)
+// }
+
+let home_work=true;
+
+if(home_work){
+  console.log("I Will Play Game");
+}
+else{
+  console.log("Please Complete Your Homework");
+}
